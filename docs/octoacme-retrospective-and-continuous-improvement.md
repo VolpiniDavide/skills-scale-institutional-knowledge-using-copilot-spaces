@@ -16,6 +16,13 @@ After each sprint, release, or important milestone. Also after incidents.
 - Timebox: 45–75 minutes depending on team size
 - Use an anonymous idea board if needed to encourage candor
 - Prioritize 2–3 top action items to avoid overload
+- **Invite cross-functional contributors**: QA Engineer, UX/UI Designer, Technical Writer, and Support Lead each bring distinct perspectives — ensure their input is included, either via attendance or async pre-input
+
+## Input Sources for Retrospectives
+- QA Engineer: defect trends, test coverage gaps, quality gate friction
+- UX/UI Designer: design-dev handoff issues, user feedback on UX
+- Technical Writer: documentation debt, information gaps discovered during writing
+- Support Lead: post-launch issue patterns, user pain points, escalation themes
 
 ## Tracking Improvements
 - Add action items to the project backlog or issues with clear owners and timelines

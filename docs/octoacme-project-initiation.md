@@ -27,11 +27,15 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - Primary stakeholders:
 - Suggested timeline / milestones:
 - Quick risks & dependencies:
-- Proposed team / roles:
+- Proposed team / roles: *(include PM, PdM, Dev lead, QA Engineer, UX/UI Designer, Technical Writer, Support Lead as applicable)*
 
 ## Initiation Checklist
 - [ ] One-pager completed and reviewed by Product Lead
 - [ ] Sponsor / Stakeholder alignment (email or meeting)
+- [ ] UX/UI Designer engaged if user-facing work is in scope
+- [ ] QA Engineer engaged to review initial acceptance criteria
+- [ ] Technical Writer notified of new project and documentation scope
+- [ ] Support Lead briefed on expected user impact and timeline
 - [ ] Decision: Approve to move into planning?
 - [ ] Create repo or project board skeleton
 - [ ] Add initial artifacts to repo (docs/ or .copilot/)

@@ -22,6 +22,18 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - End-to-end smoke tests for critical flows before release
 - Security scanning in CI
 - Manual QA for feature acceptance when needed
+- **QA Engineer signs off** on each release via a quality gate checklist (see `octoacme-cross-functional-handoff-checklist.md`)
+- **UX/UI Designer reviews** implementation against design specs before QA sign-off
+
+## Design Handoff
+- UX/UI Designer provides final design specs (e.g., Figma links) in the relevant backlog items before development starts
+- Developers flag any implementation deviations to the UX/UI Designer during PR review
+- A design review checkpoint is held before the feature enters the QA column
+
+## Documentation & Knowledge Handoff
+- Technical Writer attends sprint demos to capture feature context
+- Draft documentation is reviewed by Developers and Product Manager during sprint close
+- Docs must be merged/published before the release is announced
 
 ## Reporting & Metrics
 - Track velocity and burndown
@@ -38,3 +50,7 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - [ ] CI configured for tests and lint
 - [ ] Regular demos scheduled
 - [ ] Risk register updated weekly
+- [ ] UX/UI Designer completing design reviews before features enter QA
+- [ ] QA Engineer tracking defects and quality gate status
+- [ ] Technical Writer keeping documentation drafts up to date with sprint progress
+- [ ] Support Lead receiving sprint demo summaries or release preview notes
