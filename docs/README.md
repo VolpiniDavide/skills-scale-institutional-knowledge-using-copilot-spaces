@@ -9,8 +9,19 @@ OctoAcme manages projects with a **customer-first, iterative** approach. Key pri
 - **Customer-first:** prioritize customer value and usability in every decision.
 - **Iterative delivery:** deliver small, testable increments to reduce risk and gather feedback early.
 - **Clear ownership:** each project has a named Project Manager (PM) and Product Lead responsible for delivery.
+- **Stakeholder alignment:** keep all stakeholders informed and engaged throughout the project lifecycle.
 - **Data-informed decisions:** measure impact and iterate based on evidence.
 - **Psychological safety:** encourage open feedback, learning, and continuous improvement.
+
+## Core Roles
+
+| Role | Responsibilities |
+|---|---|
+| **Project Manager (PM)** | Coordinates delivery, schedules, risk, and communications. |
+| **Product Manager (PdM)** | Defines outcomes, prioritizes the backlog, and measures success. |
+| **Developers** | Implement features, collaborate on design and testability. |
+| **QA / Testing** | Validate quality and acceptance criteria. |
+| **Stakeholders** | Provide inputs, approvals, and strategic direction. |
 
 ## Process Lifecycle
 
